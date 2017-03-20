@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.idea
+*.iml
+app/*.apk
+*test_bundle.zip
+uitest/screenshots/*
+__pycache__/
+*.py[cod]
+.irb-history
